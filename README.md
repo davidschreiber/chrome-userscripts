@@ -23,7 +23,7 @@ To use one of my user scripts:
 
 ## Existing Scripts
 
-* `github-expand-pr-checks` removes the maximum height of GitHubs pull request checks box.
+* [`github-expand-pr-checks`](github-expand-pr-checks/index.user.js) removes the maximum height of GitHubs pull request checks box.
 
 ## Contributing
 
